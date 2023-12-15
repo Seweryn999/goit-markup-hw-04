@@ -410,3 +410,12 @@ button:hover {
   border-radius: 4px;
   margin-bottom: 8px;
 }
+.list-s-two-flex-gap {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+.section-four-background-fff {
+  width: 40px;
+  height: 40px;
+}
